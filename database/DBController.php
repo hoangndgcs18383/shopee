@@ -3,9 +3,9 @@
 class DBController
 {
     protected $host = 'remotemysql.com';
-    protected $user = 'KAYjTvxHvR';
-    protected $password = 'ICwPItNZJ1';
-    protected $database = "KAYjTvxHvR";
+    protected $user = 'CYe1hRgCpk';
+    protected $password = 'aGXNSEBm3C';
+    protected $database = "CYe1hRgCpk";
 
     
     public $con = null;
